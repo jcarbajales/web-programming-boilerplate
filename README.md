@@ -1,2 +1,2 @@
 # web-programming-boilerplate
-Materia Progrmación Web UCUDAL
+Materia Programación Web UCUDAL
